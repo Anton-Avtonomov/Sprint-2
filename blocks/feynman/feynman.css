@@ -1,0 +1,12 @@
+/* Секция Фейнмана */
+.feynman {
+    padding: 100px 0 0 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 890px;
+    background: #f2f2f2 url(/images/feynman.png) no-repeat left bottom;
+    background-size: 867px 637px;
+    box-sizing: border-box;
+}
