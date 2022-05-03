@@ -1,4 +1,4 @@
-
+/* keyframes - кейфрэймы */
 @keyframes rotation {
     from {
         transform: rotate(0deg);
@@ -19,13 +19,13 @@
     box-sizing: border-box;
 }
 
-/* content */
+/* content - контент */
 .content {
     margin: 0 auto;
 }
 
 
-/* General properties -  общие свойства  */
+/* Properties selectors - свойства селекторов  */
 .logo {
     width: 228px;
     height: 32px;
