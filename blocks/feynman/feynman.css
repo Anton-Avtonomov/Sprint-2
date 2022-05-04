@@ -14,7 +14,7 @@
     -ms-flex-align: center;
     align-items: center;
     min-height: 890px;
-    background: #f2f2f2 url(../images/feynman.png) no-repeat left bottom;
+    background: #f2f2f2 url(/images/feynman.png) no-repeat left bottom;
     background-size: 867px 637px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
