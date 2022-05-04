@@ -1,5 +1,6 @@
 .video__iframe {
     min-width: 515px;
     min-height: 316px;
+    -o-object-fit: contain;
     object-fit: contain;
 }

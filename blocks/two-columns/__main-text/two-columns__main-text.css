@@ -1,5 +1,6 @@
 .two-columns__main-text {
     width: 80%;
     min-width: 784px;
+    -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
