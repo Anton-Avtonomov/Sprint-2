@@ -5,6 +5,8 @@
     position: absolute;
     right: 0;
     top: 64px;
+    -webkit-box-sizing: border-box;
     box-sizing: border-box;
+    -webkit-animation: rotation 20s linear infinite;
     animation: rotation 20s linear infinite;
 }
