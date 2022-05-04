@@ -6,7 +6,7 @@
     flex-direction: column;
     align-items: center;
     min-height: 890px;
-    background: #f2f2f2 url(/images/feynman.png) no-repeat left bottom;
+    background: #f2f2f2 url(../../images/feynman.png) no-repeat left bottom;
     background-size: 867px 637px;
     box-sizing: border-box;
 }
